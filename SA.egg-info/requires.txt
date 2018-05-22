@@ -1,4 +1,0 @@
-nltk
-pyspark
-pytypo
-psutil
